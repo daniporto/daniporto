@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danielle Porto</h1>
-<h3 align="center"> Dedicated and passionate software engineer with 1 year of experience in web application development and backend. Adept at debugging to ensure robust functionality, committed to enhancing the user experience, and skilled in     
-                    streamlining internal processes for optimal efficiency.</h3>
+<h3 align="center">Dedicated and passionate software engineer with 1 year of experience in web application development and backend. Adept at debugging to ensure robust functionality, committed to 
+                   enhancing the user experience, and skilled in     
+                   streamlining internal processes for optimal efficiency.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniporto&label=Profile%20views&color=0e75b6&style=flat" alt="daniporto" /> </p>
 
