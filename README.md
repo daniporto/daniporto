@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danielle Porto</h1>
-<h3 align="center">Dedicated and passionate software engineer with 1 year of experience in web application development and backend. Adept at debugging to ensure robust functionality, committed to 
+<h3 align="center">Dedicated and passionate software engineer with 1 year of experience in web application development and 
+                   backend. Adept at debugging to ensure robust functionality, committed to 
                    enhancing the user experience, and skilled in     
                    streamlining internal processes for optimal efficiency.
 </h3>
